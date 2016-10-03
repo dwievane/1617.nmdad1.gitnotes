@@ -10,7 +10,7 @@ persoonlijke gegevens:
 |Onderwijsinstelling    |Arteveldehogeschool            |
 
 ![Foto Dwiezel][pic]
-[pic]: https://yt3.ggpht.com/-zovvmNjoJPk/AAAAAAAAAAI/AAAAAAAAAAA/-goYa6M01YY/s900-c-k-no-rj-c0xffffff/photo.jpg "Dwiezel"
+[pic]: https://yt3.ggpht.com/-zovvmNjoJPk/AAAAAAAAAAI/AAAAAAAAAAA/-goYa6M01YY/s900-c-k-no-rj-c0xffffff/photo.jpg =200x200 "Dwiezel"
 
 Mappen
 ------
