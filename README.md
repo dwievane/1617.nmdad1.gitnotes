@@ -1,4 +1,4 @@
-persoonlijke gegevens:
+Persoonlijke gegevens:
 
 |                       |                               |
 |-----------------------|-------------------------------|
