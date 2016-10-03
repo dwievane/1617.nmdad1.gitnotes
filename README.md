@@ -9,6 +9,8 @@ persoonlijke gegevens:
 |Academiejaar           |2016-2017                      |
 |Onderwijsinstelling    |Arteveldehogeschool            |
 
+![foto van mij](/Afbeeldingen/dwiezel_zw.jpg "Dwiezel")
+
 Mappen
 ------
 
