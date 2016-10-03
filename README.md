@@ -1,13 +1,13 @@
 persoonlijke gegevens:
+
 ⎪                      ⎪                                ⎪
 ⎪----------------------⎪--------------------------------⎪
 ⎪ Student              ⎪Dwiezel Van Eeckhout            ⎪
 ⎪ Opleidingsonderdeel  ⎪ New Media Design & Development ⎪
 ⎪ Afstudeerrichting    ⎪ Multimediaproductie (MMP)      ⎪
 ⎪ Specialisatie        ⎪ proDEV                         ⎪
-⎪ Onderwijsinstelling  ⎪ Arteveldehogeschool            ⎪
 ⎪ Academiejaar         ⎪ 2016-2017                      ⎪
-
+⎪ Onderwijsinstelling  ⎪ Arteveldehogeschool            ⎪
 
 Mappen
 ------
