@@ -1,9 +1,13 @@
 persoonlijke gegevens:
-| Naam       | Dwiezel Van Eeckhout |
-| ------------- |:-------------:| -----:|
-| Studie | ProDev Arteveldehs|
-| Academiejaar | 16-17 |
-| hobby | skiën |
+⎪                      ⎪                                ⎪
+⎪----------------------⎪--------------------------------⎪
+⎪ Student              ⎪Dwiezel Van Eeckhout            ⎪
+⎪ Opleidingsonderdeel  ⎪ New Media Design & Development ⎪
+⎪ Afstudeerrichting    ⎪ Multimediaproductie (MMP)      ⎪
+⎪ Specialisatie        ⎪ proDEV                         ⎪
+⎪ Onderwijsinstelling  ⎪ Arteveldehogeschool            ⎪
+⎪ Academiejaar         ⎪ 2016-2017                      ⎪
+
 
 Mappen
 ------
