@@ -9,7 +9,7 @@ persoonlijke gegevens:
 |Academiejaar           |2016-2017                      |
 |Onderwijsinstelling    |Arteveldehogeschool            |
 
-![foto van mij](/Dwiezel/Code/1617.nmdad1.gitnotes/dwiezel_zw.jpg "Dwiezel")
+![foto van mij](/Code/1617.nmdad1.gitnotes/dwiezel_zw.jpg "Dwiezel")
 
 Mappen
 ------
