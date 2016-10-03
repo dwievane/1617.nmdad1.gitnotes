@@ -2,7 +2,7 @@ persoonlijke gegevens:
 
 |                       |                               |
 |-----------------------|-------------------------------|
-| **Student**           |Dwiezel Van Eeckhout           |
+|Student                |Dwiezel Van Eeckhout           |
 |Opleidingsonderdeel    |New Media Design & Development |
 |Afstudeerrichting      |Multimediaproductie (MMP)      |
 |Specialisatie          |proDEV                         |
