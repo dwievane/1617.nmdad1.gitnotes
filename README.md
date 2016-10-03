@@ -9,7 +9,8 @@ persoonlijke gegevens:
 |Academiejaar           |2016-2017                      |
 |Onderwijsinstelling    |Arteveldehogeschool            |
 
-![foto van mij](/Code/1617.nmdad1.gitnotes/dwiezel_zw.jpg "Dwiezel")
+![Foto Dwiezel][pic]
+[pic]: https://yt3.ggpht.com/-zovvmNjoJPk/AAAAAAAAAAI/AAAAAAAAAAA/-goYa6M01YY/s900-c-k-no-rj-c0xffffff/photo.jpg "Dwiezel"
 
 Mappen
 ------
