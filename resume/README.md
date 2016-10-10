@@ -60,3 +60,5 @@ Reeds 4 jaar als hulpkok in "Den Doorn" te Ninove
 ###Overige:
 Geïnteresseerd in **Architectuur** en **kunst**.
 Houd van: cafés bezoeken, snelle auto's en *lasagne*!
+
+![Foto](https://yt3.ggpht.com/-zovvmNjoJPk/AAAAAAAAAAI/AAAAAAAAAAA/-goYa6M01YY/s100-c-k-no-rj-c0xffffff/photo.jpg "Foto Dwiezel")
