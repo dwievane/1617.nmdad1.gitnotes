@@ -40,6 +40,7 @@ Reeds 4 jaar als hulpkok in "Den Doorn" te Ninove
 
 ###Computerkennis:
 
+|         |          |
 |----|----|
 | Software      |Sketchup, Id, Ps, Ai, Xd, Pr, Mu, Ae |
 | Webtechnologie      |Bootstrap, WordPress|
